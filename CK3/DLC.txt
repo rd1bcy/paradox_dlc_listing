@@ -4,3 +4,15 @@
 1303182=The Royal Court
 1303184=The Fate of Iberia
 2114760=Friends and Foes
+1359040=Expansion Pass
+2114760=Friends & Foes
+2311920=Tours & Tournaments
+2311930=Elegance of the Empire
+2313540=Legacy of Persia
+2313541=Wards & Wardens
+2671030=Content Creator Pack: North African Attire
+2671040=Couture of the Capets
+2671060=Legends of the Dead
+2671070=Roads to Power
+2671080=Wandering Nobles
+2812400=Chapter III
