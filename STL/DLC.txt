@@ -42,3 +42,8 @@
 2863190=Stellaris: Season 08 - Expansion Pass
 2534090=Stellaris: Astral Planes
 2729490=Stellaris: Expansion Subscription
+2840100=The Machine Age
+2863060=Cosmic Storms
+2863080=Grand Archive
+2863180=Rick the Cube Species Portrait
+2863190=Season 08 - Expansion Pass
