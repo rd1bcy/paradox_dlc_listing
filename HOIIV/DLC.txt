@@ -30,3 +30,10 @@
 2280250=AAT - "Säkkijärven Polkka"
 2695150=Hearts of Iron IV: Trial of Allegiance
 2786480=Trial of Allegiance Pre-order Bonus
+2981720=Content Creator Pack - Soviet Union 2D
+3152780=Götterdämmerung
+3152790=Graveyard of Empires
+3152800=Prototype Vehicles
+3152810=Expansion Pass 1
+3152820=Supporter Pack
+3152840=Ride of the Valkyries Music
