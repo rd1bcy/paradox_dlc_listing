@@ -2,5 +2,5 @@
 dlc listing for some games like:
 + Hearts of Iron IV
 + Stellaris
-+ Europa Universalis
-+ Crusader Kings 3
++ Europa Universalis IV
++ Crusader Kings III
